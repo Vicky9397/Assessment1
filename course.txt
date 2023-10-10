@@ -3,3 +3,6 @@ c++
 .NET
 angular
 react
+python
+android
+
